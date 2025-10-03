@@ -204,21 +204,21 @@ function App() {
               </div>
               {/* Right Text */}
               <div className="rg w-full md:w-[40%] py-10 md:py-30">
-                <h1 className="text-4xl sm:text-6xl md:text-8xl">Still Running,</h1>
-                <h1 className="text-4xl sm:text-6xl md:text-8xl">Not Hunting</h1>
-                <p className="mt-6 sm:mt-10 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]">
+                <h1 className="text-4xl sm:text-6xl md:text-8xl" translate="no">Still Running,</h1>
+                <h1 className="text-4xl sm:text-6xl md:text-8xl" translate="no">Not Hunting</h1>
+                <p className="mt-6 sm:mt-10 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]" translate="no">
                   Ils incarnent la dureté de deux hors-la-loi qui refusent de ralentir.
                   Chaque braquage, chaque coup de feu, rappelle qu’ils sont faits pour survivre aux prédateurs de la ville.
                   Ils ne chassent pas la gloire — ils courent pour la liberté, le pouvoir et la survie.
                   Dans ce monde, le jeu ne s’arrête jamais, et eux non plus.
                 </p>
-                <p className="mt-3 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-3 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]" translate="no">
                   Ils incarnent la dureté de deux hors-la-loi qui refusent de ralentir.
                   Chaque braquage, chaque coup de feu, rappelle qu’ils sont faits pour survivre aux prédateurs de la ville.
                   Ils ne chassent pas la gloire — ils courent pour la liberté, le pouvoir et la survie.
                   Dans ce monde, le jeu ne s’arrête jamais, et eux non plus.
                 </p>
-                <button className="bg-[#995c92] px-6 sm:px-10 py-4 sm:py-6 text-black mt-8 sm:mt-10 text-xl sm:text-2xl md:text-4xl">
+                <button className="bg-[#995c92] px-6 sm:px-10 py-4 sm:py-6 text-black mt-8 sm:mt-10 text-xl sm:text-2xl md:text-4xl" translate="no">
                   Download Now
                 </button>
               </div>
