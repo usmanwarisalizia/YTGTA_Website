@@ -212,7 +212,7 @@ function App() {
                   Ils ne chassent pas la gloire — ils courent pour la liberté, le pouvoir et la survie.
                   Dans ce monde, le jeu ne s’arrête jamais, et eux non plus.
                 </p>
-                <p className="mt-3 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]" translate="no">
+                <p className="mt-3 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]" translate="no" >
                   Ils incarnent la dureté de deux hors-la-loi qui refusent de ralentir.
                   Chaque braquage, chaque coup de feu, rappelle qu’ils sont faits pour survivre aux prédateurs de la ville.
                   Ils ne chassent pas la gloire — ils courent pour la liberté, le pouvoir et la survie.
