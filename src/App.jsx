@@ -118,7 +118,7 @@ function App() {
             </mask>
           </defs>
           <image
-            href="./bg.png"
+            href="/bg.png"
             width="100%"
             height="100%"
             preserveAspectRatio="xMidYMid slice"
@@ -149,13 +149,13 @@ function App() {
             <div className="imagesdiv relative overflow-hidden w-full h-screen">
               <img
                 className="absolute sky scale-[1.3] sm:scale-[1.5] rotate-[-15deg] sm:rotate-[-20deg] top-0 left-0 w-full h-full object-cover"
-                src="./sky.png"
-                alt=""
+                src="/sky.png"
+                alt="sky"
               />
               <img
                 className="absolute scale-[1.4] sm:scale-[1.8] rotate-[-2deg] sm:rotate-[-3deg] bg top-0 left-0 w-full h-full object-cover"
-                src="../public/backgroundbg.png"
-                alt=""
+                src="/backgroundbg.png"
+                alt="background"
               />
               <div className="text text-white flex flex-col gap-2 sm:gap-3 absolute top-16 sm:top-20 left-1/2 -translate-x-1/2 scale-[1.2] sm:scale-[1.4] rotate-[-8deg] sm:rotate-[-10deg]">
                 <h1 className="text-[4rem] sm:text-[8rem] md:text-[10rem] lg:text-[12rem] leading-none -ml-10 sm:-ml-40">
@@ -170,8 +170,8 @@ function App() {
               </div>
               <img
                 className="absolute character -bottom-[120%] sm:-bottom-[150%] left-1/2 -translate-x-1/2 scale-[2] sm:scale-[3] rotate-[-15deg] sm:rotate-[-20deg]"
-                src="../public/characterbg23.png"
-                alt=""
+                src="/characterbg23.png"
+                alt="character"
               />
             </div>
 
@@ -185,8 +185,8 @@ function App() {
               </div>
               <img
                 className="absolute h-[40px] sm:h-[55px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-                src="./ps5.png"
-                alt=""
+                src="/ps5.png"
+                alt="ps5"
               />
             </div>
           </div>
@@ -198,8 +198,8 @@ function App() {
               <div className="limg relative w-full md:w-1/2 h-64 md:h-full flex items-center justify-center">
                 <img
                   className="scale-[1.1] sm:scale-[1.3] max-h-[300px] md:max-h-none"
-                  src="./imag.png"
-                  alt=""
+                  src="/imag.png"
+                  alt="image"
                 />
               </div>
               {/* Right Text */}
@@ -212,7 +212,7 @@ function App() {
                   Ils ne chassent pas la gloire — ils courent pour la liberté, le pouvoir et la survie.
                   Dans ce monde, le jeu ne s’arrête jamais, et eux non plus.
                 </p>
-                <p className="mt-3 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]" translate="no" >
+                <p className="mt-3 text-base sm:text-lg md:text-xl font-[Helvetica_Now_Display]" translate="no">
                   Ils incarnent la dureté de deux hors-la-loi qui refusent de ralentir.
                   Chaque braquage, chaque coup de feu, rappelle qu’ils sont faits pour survivre aux prédateurs de la ville.
                   Ils ne chassent pas la gloire — ils courent pour la liberté, le pouvoir et la survie.
