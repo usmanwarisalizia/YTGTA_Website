@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "pricedown";
+  src: url("./pricedown.otf");
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "pricedown";
+}
+
+@layer utilities {
+  .bg-gradient-4 {
+    background: linear-gradient(
+      to right,
+      #bc75a4 0%,
+      #a670a4 30%,
+      #7382ac 65%,
+      #bb0f80 100%
+    );
+  }
+}
